@@ -1,5 +1,9 @@
 <h3>🌐 Socials</h3>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@finishu)
+<p>
+  <a href="https://youtube.com/@finishu">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 <h3>💻 Tech Stack</h3>
 <p align="center">
@@ -18,4 +22,4 @@
 </p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Finishu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Finishu&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
