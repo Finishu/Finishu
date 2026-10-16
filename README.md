@@ -1,10 +1,3 @@
-<h3>🌐 Socials</h3>
-<p>
-  <a href="https://youtube.com/@finishu">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
 <h3>💻 Tech Stack</h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
